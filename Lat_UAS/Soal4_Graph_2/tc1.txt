@@ -1,0 +1,19 @@
+2
+2
+Armei
+1
+Tebre 3
+Tebre
+0
+Armei Tebre
+3
+A
+2
+B 2
+C 4
+B
+1
+C 2
+C
+0
+A C
